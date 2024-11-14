@@ -16,4 +16,4 @@ for (int k = 1; k <= n; k++)
         continue;
     Q += n / d;
 }
-Console.WriteLine("Сумма ряда Q: " + Q);
+Console.WriteLine("Сумма" + Q);
