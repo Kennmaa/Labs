@@ -2,7 +2,7 @@
 int n;
 if (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
 {
-    Console.WriteLine("Ошибка: введите положительное целое число.");
+    Console.WriteLine("Ошибка");
     return;
 }
 
