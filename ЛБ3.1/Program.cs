@@ -8,7 +8,7 @@ switch (x)
             double a = 3;
             double b = 3.5;
             double c = -2.1;
-            y = (a + b + c) / 3;
+            y = (a + b + c) / 3; 
             Console.WriteLine("Среднее значение 1: " + y);
             break;
         }
