@@ -1,19 +1,27 @@
-﻿Console.WriteLine("Введите значение n:");
-int n;
-if (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
-{
-    Console.WriteLine("Ошибка");
-    return;
-}
+﻿Console.WriteLine("Введите значение x: ");
+double x = double.Parse(Console.ReadLine());
 
-double Q = 0; //сумма 
+Console.WriteLine("Введите точность вычислений : ");
+double e = double.Parse(Console.ReadLine());
 
-for (int k = 1; k <= n; k++)
+double sum = 0; // Переменная для хранения суммы
+double term;    // Текущий член ряда
+int k = 1;      // Счетчик членов ряда
+
+do
 {
-    double y = Math.Pow(-1, k) * (k - 7); // Числитель
-    double d = 2 * (n - k);             // Знаменатель
-    if (d == 0 || double.IsInfinity(n / d)) // Пропуск слагаемых
-        continue;
-    Q += n / d;
-}
-Console.WriteLine("Сумма" + Q);
+    // Вычисляем текущий член ряда
+    term = Math.Sin(k * x) / k;
+
+    // Чередуем знаки
+    if (k % 2 == 0)
+        term = -term;
+
+    // Добавляем текущий член к сумме
+    sum += term;
+
+    k++; // Переход к следующему члену ряда
+
+} while (Math.Abs(term) > e); // Продолжаем, пока член ряда больше epsilon
+
+Console.WriteLine($"Сумма ряда с точностью {e}: {sum}");
