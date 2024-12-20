@@ -1,11 +1,11 @@
-﻿int[,] mas1 = new int[2, 4];
-Random random = new Random();
-for (int i = 0; i < 2; i++)
+﻿Random random = new Random();
+int[] array = new int[8];
+int[] result = new int[8];
+
+for (int i = 0; i < 8; i++)
 {
-    for (int j = 0; j < 4; j++)
-    {
-        mas1[i,j] = (int)random.Next(10,100);
-        Console.Write(mas1[i,j] + " ");
-    }
-    Console.WriteLine();
+    array[i] = random.Next(10, 100);
+    result[i] = array[i] % 10;
 }
+Console.WriteLine(string.Join(" ", result));
+
