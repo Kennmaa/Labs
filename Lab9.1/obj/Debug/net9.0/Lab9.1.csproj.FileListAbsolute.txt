@@ -1,0 +1,15 @@
+C:\Users\naste\source\repos\Лб1\Lab9.1\bin\Debug\net9.0\Lab9.1.exe
+C:\Users\naste\source\repos\Лб1\Lab9.1\bin\Debug\net9.0\Lab9.1.deps.json
+C:\Users\naste\source\repos\Лб1\Lab9.1\bin\Debug\net9.0\Lab9.1.runtimeconfig.json
+C:\Users\naste\source\repos\Лб1\Lab9.1\bin\Debug\net9.0\Lab9.1.dll
+C:\Users\naste\source\repos\Лб1\Lab9.1\bin\Debug\net9.0\Lab9.1.pdb
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\Lab9.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\Lab9.1.AssemblyInfoInputs.cache
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\Lab9.1.AssemblyInfo.cs
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\Lab9.1.csproj.CoreCompileInputs.cache
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\Lab9.1.sourcelink.json
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\Lab9.1.dll
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\refint\Lab9.1.dll
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\Lab9.1.pdb
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\Lab9.1.genruntimeconfig.cache
+C:\Users\naste\source\repos\Лб1\Lab9.1\obj\Debug\net9.0\ref\Lab9.1.dll
