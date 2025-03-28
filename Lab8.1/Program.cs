@@ -4,7 +4,7 @@ class SimpleAlarmClock
 {
     static void Main()
     {
-        // 1. Разбор времени на компоненты
+        // 1
         Console.WriteLine("Введите время (формат ЧЧ:ММ:СС.ммм):");
         if (!TimeSpan.TryParse(Console.ReadLine(), out TimeSpan time))
         {
@@ -14,7 +14,7 @@ class SimpleAlarmClock
 
         Console.WriteLine($"\nРазбор времени:\nЧасы: {time.Hours}\nМинуты: {time.Minutes}\nСекунды: {time.Seconds}\nМиллисекунды: {time.Milliseconds}");
 
-        // 2. Будильник
+        // 2
         Console.WriteLine("\nВведите время будильника (формат ЧЧ:ММ):");
         if (!TimeSpan.TryParse(Console.ReadLine(), out TimeSpan alarmTime))
         {
