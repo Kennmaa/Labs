@@ -1,0 +1,15 @@
+C:\Users\kenma\source\repos\1\esdfsdf\bin\Debug\net9.0\esdfsdf.exe
+C:\Users\kenma\source\repos\1\esdfsdf\bin\Debug\net9.0\esdfsdf.deps.json
+C:\Users\kenma\source\repos\1\esdfsdf\bin\Debug\net9.0\esdfsdf.runtimeconfig.json
+C:\Users\kenma\source\repos\1\esdfsdf\bin\Debug\net9.0\esdfsdf.dll
+C:\Users\kenma\source\repos\1\esdfsdf\bin\Debug\net9.0\esdfsdf.pdb
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\esdfsdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\esdfsdf.AssemblyInfoInputs.cache
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\esdfsdf.AssemblyInfo.cs
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\esdfsdf.csproj.CoreCompileInputs.cache
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\esdfsdf.sourcelink.json
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\esdfsdf.dll
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\refint\esdfsdf.dll
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\esdfsdf.pdb
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\esdfsdf.genruntimeconfig.cache
+C:\Users\kenma\source\repos\1\esdfsdf\obj\Debug\net9.0\ref\esdfsdf.dll
